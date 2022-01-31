@@ -1,0 +1,11 @@
+# ignore environment
+
+env/
+
+account.session
+
+rate_bot.session
+
+__pycache__/
+
+token.txt
